@@ -1,7 +1,6 @@
 streamlit
-tensorflow-cpu==2.21.0rc1
-streamlit
 streamlit-option-menu
+tensorflow-cpu==2.19.1
 numpy
 protobuf
 pandas
