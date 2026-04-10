@@ -1,0 +1,11 @@
+streamlit
+streamlit-option-menu
+tensorflow-cpu
+numpy
+protobuf
+pandas
+scikit-learn
+matplotlib
+keras
+scikeras
+tensorboard
