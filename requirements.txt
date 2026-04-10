@@ -1,5 +1,5 @@
 streamlit
-tensorflow-cpu==2.20.0
+tensorflow-cpu==2.21.0rc1
 streamlit
 streamlit-option-menu
 numpy
