@@ -12,9 +12,9 @@ __pycache__/
 # Logs
 # logs/
 
-# Model artifacts and serialized objects
-*.h5
-*.pkl
+# # Model artifacts and serialized objects
+# *.h5
+# *.pkl
 
 # OS files
 .DS_Store
